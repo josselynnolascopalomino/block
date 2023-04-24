@@ -1,2 +1,5 @@
 trabajando en la rama1 en GIT BASH.
 clase de lenguaje de programación
+
+
+editando desde la rama2
