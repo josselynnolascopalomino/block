@@ -2,3 +2,4 @@ trabajando en la rama1 en GIT BASH.
 clase de lenguaje de programación
 arreglando conflicto de la segunda linea
 AGREGANDO CUARTA LINEA
+editando esta linea de remoto
