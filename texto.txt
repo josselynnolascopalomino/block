@@ -1,4 +1,4 @@
 trabajando en la rama1 en GIT BASH.
 clase de lenguaje de programación
+arreglando conflicto de la segunda linea
 
-editado desde el master
